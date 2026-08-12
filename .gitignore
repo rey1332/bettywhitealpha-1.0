@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+
+.codex_write_probe
+README_copy_test.md
+
+.streamlit/secrets.toml
