@@ -1,6 +1,6 @@
 # BettyWhite Alpha
 
-BettyWhite Alpha is a modular Python trading dashboard scaffold with an institutional-style dark UI. It ships with a mock market-data provider today and a clean provider boundary so Sierra Chart or another feed can be wired in later without rebuilding the front end.
+BettyWhite is a modular market dashboard.
 
 ## Features
 
